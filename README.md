@@ -20,7 +20,7 @@
 6. Análise de resultados
 7. Recomendações de mitigação
 8. Arquivos incluídos no repositório
-9. Lista de senhas (https://github.com/duyet/bruteforce-database)
+9. Lista de senhas (small-words.txt) e (https://github.com/duyet/bruteforce-database)
 10. Comandos e scripts usados
 11. Checklist de entrega
 
