@@ -1,0 +1,2 @@
+medusa: v2.2 testing FTP against 172.23.3.201
+[+] 172.23.3.201:21 FTP: testuser:welcome - Login successful
