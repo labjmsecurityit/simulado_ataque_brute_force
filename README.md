@@ -251,10 +251,6 @@ gu3st
 teste
 ```
 
-> Nota: Se desejar a wordlist `rockyou.txt` (muito maior), incluo instruções para baixar e usar com cuidado.
-
----
-
 ## 10. Scripts e comandos (arquivos em `scripts/`)
 
 Exemplos dos scripts fornecidos no repositório:
